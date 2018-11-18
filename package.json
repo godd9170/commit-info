@@ -86,7 +86,7 @@
     "prettier-standard": "8.0.1",
     "ramda": "0.26.0",
     "semantic-release": "8.2.3",
-    "simple-commit-message": "3.3.2",
+    "simple-commit-message": "4.0.3",
     "snap-shot-it": "6.2.5",
     "standard": "10.0.3",
     "stub-spawn-once": "2.3.0"
